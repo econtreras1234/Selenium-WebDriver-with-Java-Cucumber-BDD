@@ -1,0 +1,12 @@
+package smoketest;
+
+import org.openqa.selenium.WebDriver;
+
+public class PageTitleJUnit {
+	
+	public void pageTitleTest(){
+		WebDriver driver = utilities.DriverFactory.open("chrome");
+				
+	}
+
+}

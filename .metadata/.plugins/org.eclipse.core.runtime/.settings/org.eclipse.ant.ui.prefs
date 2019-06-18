@@ -1,0 +1,20 @@
+eclipse.preferences.version=1
+org.eclipse.ant.ui.commentsColor=199,221,12
+org.eclipse.ant.ui.constantStringsColor=255,198,0
+org.eclipse.ant.ui.constantStringsColor_italic=true
+org.eclipse.ant.ui.customtemplates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.ant.ui.debugColor=0,0,0
+org.eclipse.ant.ui.dtdColor=255,255,255
+org.eclipse.ant.ui.errorColor=255,0,0
+org.eclipse.ant.ui.informationColor=0,0,255
+org.eclipse.ant.ui.processingInstructionsColor=216,216,216
+org.eclipse.ant.ui.processingInstructionsColor_bold=true
+org.eclipse.ant.ui.tagsColor=255,255,255
+org.eclipse.ant.ui.tagsColor_bold=true
+org.eclipse.ant.ui.textColor=216,216,216
+overriddenByCSS=,org.eclipse.ant.ui.constantStringsColor_italic,org.eclipse.ant.ui.processingInstructionsColor_bold,org.eclipse.ant.ui.tagsColor_bold,
+problem_classpath=warning
+problem_imports=warning
+problem_properties=ignore
+problem_security=warning
+problem_tasks=ignore

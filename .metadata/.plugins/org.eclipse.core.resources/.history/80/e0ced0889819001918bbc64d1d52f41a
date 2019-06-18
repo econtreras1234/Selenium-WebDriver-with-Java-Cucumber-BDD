@@ -1,0 +1,21 @@
+package demos;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class CreateAccount {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//1. Create Webdriver
+		System.setProperty("webdriver.gecko.driver", "D:\\geckodriver-v0.23.0-win64\\geckodriver.exe");
+		WebDriver driver = new FirefoxDriver();
+		
+		//2. Navigate to Account Mangement Page >> Click on create account
+		driver.get("http://sdettraining.com/trguitransactions/AccountManagement.aspx");
+		
+		//3. 
+
+	}
+
+}
